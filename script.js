@@ -59,7 +59,7 @@ const types  = [
     'normal',
 ];
 
-const POKEMON_COUNT = 12;
+const POKEMON_COUNT = 52;
 
 const cardHTML = `
 
